@@ -1,0 +1,38 @@
+{
+  "name": "commander.js-decorated",
+  "version": "0.0.3",
+  "author": {
+    "name": "Darren Rahnemoon",
+    "email": "darrenrahnemoon@gmail.com",
+    "url": "https://darrenrahnemoon.com"
+  },
+  "license": "GPL-3.0-or-later",
+  "description": "A typescript decorator based wrapper for commanderjs",
+  "main": "./src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrenrahnemoon/commander.js-decorated.git"
+  },
+  "keywords": [
+    "commander",
+    "commanderjs",
+    "decorator",
+    "typescript",
+    "cli",
+    "command",
+    "command-line"
+  ],
+  "bugs": {
+    "url": "https://github.com/darrenrahnemoon/commander.js-decorated/issues"
+  },
+  "homepage": "https://github.com/darrenrahnemoon/commander.js-decorated#readme",
+  "dependencies": {
+    "commander": "^9.0.0",
+    "lodash": "^4.17.21",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.178",
+    "@types/node": "^17.0.19"
+  }
+}
